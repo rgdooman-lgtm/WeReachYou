@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313019761029",
+    "project_id": "wereachyou-73494",
+    "storage_bucket": "wereachyou-73494.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313019761029:android:4f1b038a7c4e8cac94c4ec",
+        "android_client_info": {
+          "package_name": "com.siidra.wereachyou"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTvWzDE9__in7swUE6pvk-vguvhcAhoI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
